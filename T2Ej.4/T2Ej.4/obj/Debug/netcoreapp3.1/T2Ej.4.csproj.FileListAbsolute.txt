@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\bin\Debug\netcoreapp3.1\T2Ej.4.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej.4\T2Ej.4\obj\Debug\netcoreapp3.1\T2Ej.4.genruntimeconfig.cache
