@@ -10,7 +10,7 @@ namespace T2Ej3
             Console.Write("Introduzca las horas laboradas de la semana: ");
             horas = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            if (horas < 39)
+            if (horas <= 40)
             {
                 total = horas * 16;
                 Console.Write("Usted trabajo " + horas + "horas. Y su salario semanal es de: " + total);
