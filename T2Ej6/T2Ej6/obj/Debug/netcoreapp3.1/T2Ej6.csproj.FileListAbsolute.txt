@@ -1,0 +1,13 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.deps.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.runtimeconfig.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.runtimeconfig.dev.json
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\bin\Debug\netcoreapp3.1\T2Ej6.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.AssemblyInfoInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.AssemblyInfo.cs
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea2\Ej4\T2Ej5\T2Ej6\T2Ej6\obj\Debug\netcoreapp3.1\T2Ej6.genruntimeconfig.cache
